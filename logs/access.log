@@ -1,0 +1,11 @@
+::1 - - [02/Oct/2024:13:45:30 -0600] "GET /dolibarr/install/ HTTP/1.1" 200 28060
+::1 - - [02/Oct/2024:13:45:37 -0600] "POST /dolibarr/install/check.php HTTP/1.1" 200 12373
+::1 - - [02/Oct/2024:13:45:41 -0600] "GET /dolibarr/install/fileconf.php?selectlang=auto HTTP/1.1" 200 12256
+::1 - - [02/Oct/2024:13:45:55 -0600] "POST /dolibarr/install/step1.php HTTP/1.1" 200 3084
+::1 - - [02/Oct/2024:13:46:00 -0600] "POST /dolibarr/install/step2.php HTTP/1.1" 200 1308720
+::1 - - [02/Oct/2024:13:46:41 -0600] "POST /dolibarr/install/step4.php HTTP/1.1" 200 2836
+::1 - - [02/Oct/2024:13:46:51 -0600] "POST /dolibarr/install/step5.php HTTP/1.1" 200 14947
+::1 - - [02/Oct/2024:13:47:02 -0600] "GET /dolibarr/admin/index.php?mainmenu=home&leftmenu=setup&username=admin HTTP/1.1" 200 6644
+::1 - - [02/Oct/2024:13:47:14 -0600] "POST /dolibarr/admin/index.php?mainmenu=home&leftmenu=setup& HTTP/1.1" 200 6903
+::1 - - [02/Oct/2024:13:47:16 -0600] "GET /dolibarr/theme/eldy/style.css.php?lang=en_US&theme=eldy&entity=1&layout=classic&version=19.0.3&revision=0&dol_hide_topmenu=&dol_hide_leftmenu=&dol_optimize_smallscreen=&dol_no_mouse_hover=&dol_use_jmobile= HTTP/1.1" 200 267043
+::1 - - [02/Oct/2024:13:47:22 -0600] "POST /dolibarr/admin/index.php?mainmenu=home&leftmenu=setup& HTTP/1.1" 200 27180
